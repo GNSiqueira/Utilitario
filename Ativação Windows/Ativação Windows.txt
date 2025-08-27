@@ -1,4 +1,2 @@
 1 - Windows PowerShell
 2 - irm https://massgrave.dev/get | iex OU irm https://get.activated.win | iex
-3 - clique na tecla 1
-4 - clique na tecla 1
